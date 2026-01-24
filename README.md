@@ -24,7 +24,7 @@ Loyalty_Discount
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used:
 * **Programming Language:** Python
 * **Environment:** Jupyter Notebook
 * **Libraries used:**
@@ -35,14 +35,12 @@ Loyalty_Discount
 
 ---
 
-## 🔄 Project Workflow
+## 🔄 Project Workflow:
 
 1. **Data Import & Understanding**
-
    * Loaded the dataset (.csv) file and examined structure, data types, and basic statistics
 
 2. **Data Cleaning & Preprocessing**
-
    * Checked for missing values and duplicates
    * Standardized column formats
 
@@ -86,38 +84,12 @@ This analysis is valuable for:
 ---
 
 ## 🚀 How to Run the Project
-
-1. Clone this repository
-
-   ```bash
-   git clone https://github.com/your-username/retail-price-data-analytics.git
-   ```
-2. Navigate to the project directory
-
-   ```bash
-   cd retail-price-data-analytics
-   ```
-3. Open the Jupyter Notebook
-
-   ```bash
-   jupyter notebook
-   ```
-4. Run all cells to reproduce the analysis
-
----
-
-## 📁 Repository Structure
-
-```
-├── P9-OLTP.csv
-├── Data Analytics (RETAIL PRICE).ipynb
-├── README.md
-```
+1. Open the Jupyter Notebook - Data Analytics (RETAIL PRICE).ipynb
+2. Run all cells to reproduce the analysis
 
 ---
 
 ## 🧠 Skills Demonstrated
-
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Data Visualization
@@ -127,7 +99,6 @@ This analysis is valuable for:
 ---
 
 ## 👤 Author
-
 **Aarya Date**
 B.Tech Medical Biotechnology Graduate
 Aspiring Data Analyst | Retail & Healthcare Analytics Enthusiast
@@ -135,4 +106,5 @@ Aspiring Data Analyst | Retail & Healthcare Analytics Enthusiast
 ---
 
 ⭐ If you found this project insightful, feel free to star the repository!
+
 ---
