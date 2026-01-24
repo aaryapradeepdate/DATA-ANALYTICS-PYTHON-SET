@@ -1,7 +1,7 @@
 # 📊 Retail Price Data Analytics Project
 
 ## 📌 Project Overview
-This project focuses on **analyzing OLTP (Online TRansaction Processing) dataset** to uncover meaningful insights related to price distribution, variability, and patterns across products. The goal is to demonstrate practical **data analytics skills** using Python, including data cleaning, exploratory data analysis (EDA), visualization, and insight generation.
+This project focuses on **analyzing OLTP (Online Transaction Processing) dataset** to uncover meaningful insights related to price distribution, variability, and patterns across products. The goal is to demonstrate practical **data analytics skills** using Python, including data cleaning, exploratory data analysis (EDA), visualization, and insight generation.
 
 ---
 
