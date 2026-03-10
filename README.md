@@ -101,7 +101,7 @@ This analysis is valuable for:
 ## 👤 Author
 **Aarya Date**.
 B.Tech Medical Biotechnology Graduate,
-Aspiring Data Analyst | Retail & Healthcare Analytics Enthusiast
+Aspiring Data Analyst | Analytics Enthusiast | Learning new tools & techniques |
 ---
 ---
 
