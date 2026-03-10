@@ -1,0 +1,11 @@
+Chronic Disease Condition,Potential Impact of Pheniramine,Type of Side Effect,Mechanism/Reason,Severity Level (Generalized),Clinical Consideration / Recommendation,No. of Females Affected (per 1000),No. of Males Affected (per 1000)
+Asthma / Chronic Respiratory Disease,May thicken bronchial secretions and cause airway dryness,Respiratory,Anticholinergic effect leading to reduced mucus clearance,Moderate,Use cautiously; monitor breathing patterns,85,78
+Chronic Obstructive Pulmonary Disease (COPD),Risk of mucus retention and respiratory depression,Respiratory,Sedative and anticholinergic properties,Moderate to Severe,Avoid in severe COPD; physician supervision required,92,88
+Cardiovascular Disease / Hypertension,May cause tachycardia or palpitations,Cardiovascular,Anticholinergic and mild adrenergic effects,Mild to Moderate,Monitor heart rate and blood pressure,70,76
+Chronic Kidney Disease (CKD),Drug accumulation possible in severe renal impairment,Systemic,Reduced renal clearance,Moderate,Dose adjustment may be necessary,65,68
+Chronic Liver Disease,Increased sedation due to impaired metabolism,Neurological,Hepatic metabolism may be reduced,Moderate,Use lower doses; monitor CNS effects,110,95
+Diabetes Mellitus,May mask hypoglycemia symptoms (rare),Metabolic,Sedation may reduce awareness of symptoms,Mild,Monitor blood glucose carefully,50,48
+Glaucoma (Chronic),May increase intraocular pressure,Ophthalmic,Anticholinergic effect causing pupil dilation,Severe,Contraindicated in narrow-angle glaucoma,120,105
+Benign Prostatic Hyperplasia (Chronic),Urinary retention risk,Genitourinary,Anticholinergic effect reducing bladder contraction,Moderate to Severe,Avoid in severe urinary obstruction,30,140
+Epilepsy / Chronic Seizure Disorders,May lower seizure threshold (rare cases),Neurological,CNS excitation in high doses,Mild to Moderate,Use cautiously; monitor seizure frequency,40,44
+Chronic Depression / Psychiatric Disorders,May increase drowsiness and cognitive impairment,Neurological / Psychiatric,CNS depressant effect,Moderate,Monitor mental alertness and mood changes,130,100
